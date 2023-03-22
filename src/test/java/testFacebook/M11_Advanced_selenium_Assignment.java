@@ -88,7 +88,6 @@ public class M11_Advanced_selenium_Assignment {
         femaleButton.click();
         WebElement signUp = driver.findElement(By.cssSelector("button[name='websubmit']"));
         signUp.click();
-
     }
 
 
